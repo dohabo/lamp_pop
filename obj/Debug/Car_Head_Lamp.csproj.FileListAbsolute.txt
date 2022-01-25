@@ -1,0 +1,84 @@
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.Properties.Resources.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.MainForm.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\Car_Head_Lamp.exe.config
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\Car_Head_Lamp.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\Car_Head_Lamp.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.csproj.CopyComplete
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.exe
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.pdb
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.UI.Process1UI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.UI.WorkOrderUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.UI.HomeUI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.UI.Process2UI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.UI.Process3UI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.UI.Process4UI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.UI.Process5UI.resources
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\스마트 팩토리-이현석\Car_Head_Lamp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\Car_Head_Lamp.exe.config
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\Car_Head_Lamp.exe
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\Car_Head_Lamp.pdb
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\SunnyUI.Common.dll
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\SunnyUI.dll
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.Text.Json.dll
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.Text.Json.xml
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.Properties.Resources.resources
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.UI.HomeUI.resources
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.MainForm.resources
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.UI.Process1UI.resources
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.UI.Process2UI.resources
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.UI.Process3UI.resources
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.UI.Process4UI.resources
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.UI.Process5UI.resources
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.UI.WorkOrderUI.resources
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.csproj.CopyComplete
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.exe
+C:\Users\User\Desktop\삭제요\포트폴리오\자동차 헤드램프 제조\Car_Head_Lamp\obj\Debug\Car_Head_Lamp.pdb
